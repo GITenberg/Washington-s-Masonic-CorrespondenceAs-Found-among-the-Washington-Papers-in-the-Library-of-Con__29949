@@ -1,0 +1,41 @@
+_repo: Washington-s-Masonic-CorrespondenceAs-Found-among-the-Washington-Papers-in-the-Library-of-Con__29949
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Sachse, Julius Friedrich
+    alias: Sachse, Julius F.
+    birthdate: 1842
+    deathdate: 1919
+    gutenberg_agent_id: '34262'
+    url: http://www.gutenberg.org/2009/agents/34262
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Washington, George
+    alias: United States President (1789-1797)
+    birthdate: 1732
+    deathdate: 1799
+    gutenberg_agent_id: '4659'
+    url: http://www.gutenberg.org/2009/agents/4659
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington
+description: ''
+gutenberg_issued: '2009-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29949'
+  lccn: '15018689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Washington, George, 1732-1799 -- Correspondence'
+- !lcsh 'Freemasons'
+- !lcsh 'Washington, George, 1732-1799 -- Freemasonry'
+title: 'Washington''s Masonic Correspondence
+
+  As Found among the Washington Papers in the Library of Congress'
+url: http://www.gutenberg.org/ebooks/29949
