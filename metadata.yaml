@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4659
     wikipedia: http://en.wikipedia.org/wiki/George_Washington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29949#Washington-s-Masonic-CorrespondenceAs-Found-among-the-Washington-Papers-in-the-Library-of-Con_
 gutenberg_issued: '2009-09-10'
 gutenberg_type: Text
 identifiers:
